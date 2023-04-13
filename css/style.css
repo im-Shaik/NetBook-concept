@@ -706,6 +706,10 @@ footer {
   font-weight: 600;
 }
 
+.footer-wrapper > div:last-of-type .form input:focus {
+  color: #ffffff;
+}
+
 .footer-wrapper > div:last-of-type > p {
   color: #e7e7e781;
   font-size: 16px;
