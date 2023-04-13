@@ -708,6 +708,8 @@ footer {
 
 .footer-wrapper > div:last-of-type .form input:focus {
   color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
 }
 
 .footer-wrapper > div:last-of-type > p {
